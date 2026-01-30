@@ -1,0 +1,7 @@
+{
+  "name": "TranslateMaster Pro",
+  "description": "The world's most advanced AI translator supporting 40+ languages with tone control, multimodal input, and cultural context.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
