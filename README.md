@@ -39,8 +39,8 @@ TranslateMaster Pro is an advanced, AI-powered universal translator application 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/translatemaster-pro.git
-   cd translatemaster-pro
+   git clone https://github.com/bantikumarsatlokashram/TranslatePro.git
+   cd TranslatePro
    ```
 
 2. **Install dependencies**
